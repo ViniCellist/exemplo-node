@@ -1,1 +1,3 @@
-console.log("Meu primeiro programa Node.js!");
+const number = Math.random();
+
+console.log("O número secreto é: " + number);
